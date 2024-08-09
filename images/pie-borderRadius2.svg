@@ -1,0 +1,43 @@
+<svg width="1486" height="1117" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="1.1" baseProfile="full" viewBox="0 0 1486 1117">
+    <rect width="1486" height="1117" x="0" y="0" id="0" fill="none"></rect>
+    <path d="M743 177.6813A10 10 0 0 1 753.2625 167.6847A390.95 390.95 0 0 1 1086.9589 744.3337A10 10 0 0 1 1073.1782 748.2505L945.1771 674.6894A10 10 0 0 1 941.2841 661.4125A223.4 223.4 0 0 0 752.5716 335.3051A10 10 0 0 1 743 325.3143Z"
+          fill="#5470c6" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
+    <path d="M1073.1782 748.2505A10 10 0 0 1 1076.7319 762.1293A390.95 390.95 0 0 1 593.6327 919.7912A10 10 0 0 1 588.3155 906.4879L648.2825 771.5825A10 10 0 0 1 661.087 766.3409A223.4 223.4 0 0 0 931.7456 678.01A10 10 0 0 1 945.1771 674.6894Z"
+          fill="#91cc75" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
+    <path d="M588.3155 906.4879A10 10 0 0 1 574.8772 911.4542A390.95 390.95 0 0 1 352.1343 566.6166A10 10 0 0 1 362.187 556.4091L509.8178 557.2197A10 10 0 0 1 519.756 566.846A223.4 223.4 0 0 0 643.5942 758.5651A10 10 0 0 1 648.2825 771.5825Z"
+          fill="#fac858" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
+    <path d="M362.187 556.4091A10 10 0 0 1 352.247 546.0919A390.95 390.95 0 0 1 514.1858 241.5048A10 10 0 0 1 528.2977 243.9752L611.5319 365.9079A10 10 0 0 1 609.2594 379.5559A223.4 223.4 0 0 0 519.8611 547.7031A10 10 0 0 1 509.8178 557.2197Z"
+          fill="#ee6666" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
+    <path d="M528.2977 243.9752A10 10 0 0 1 531.1377 229.933A390.95 390.95 0 0 1 732.7375 167.6847A10 10 0 0 1 743 177.6813L743 325.3143A10 10 0 0 1 733.4284 335.3051A223.4 223.4 0 0 0 625.07 368.7631A10 10 0 0 1 611.5319 365.9079Z"
+          fill="#73c0de" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
+    <path d="M-5 -5l469.1465 0l0 26l-469.1465 0Z" transform="translate(513.4268 60.85)" fill="rgb(0,0,0)"
+          fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+    <path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0"
+          transform="translate(514.4268 61.85)" fill="#5470c6" stroke="#fff" stroke-width="2" stroke-linecap="butt"
+          stroke-miterlimit="10" stroke-linejoin="round"></path>
+    <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;"
+          xml:space="preserve" x="30" y="7" transform="translate(514.4268 61.85)" fill="#333">Search Engine</text>
+    <path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0"
+          transform="translate(636.2275 61.85)" fill="#91cc75" stroke="#fff" stroke-width="2" stroke-linecap="butt"
+          stroke-miterlimit="10" stroke-linejoin="round"></path>
+    <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;" x="30"
+          y="7" transform="translate(636.2275 61.85)" fill="#333">Direct
+    </text>
+    <path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0"
+          transform="translate(711.2705 61.85)" fill="#fac858" stroke="#fff" stroke-width="2" stroke-linecap="butt"
+          stroke-miterlimit="10" stroke-linejoin="round"></path>
+    <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;" x="30"
+          y="7" transform="translate(711.2705 61.85)" fill="#333">Email
+    </text>
+    <path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0"
+          transform="translate(783.1318 61.85)" fill="#ee6666" stroke="#fff" stroke-width="2" stroke-linecap="butt"
+          stroke-miterlimit="10" stroke-linejoin="round"></path>
+    <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;"
+          xml:space="preserve" x="30" y="7" transform="translate(783.1318 61.85)" fill="#333">Union Ads</text>
+    <path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0"
+          transform="translate(883.9268 61.85)" fill="#73c0de" stroke="#fff" stroke-width="2" stroke-linecap="butt"
+          stroke-miterlimit="10" stroke-linejoin="round"></path>
+    <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;"
+          xml:space="preserve" x="30" y="7" transform="translate(883.9268 61.85)" fill="#333">Video Ads</text>
+</svg>
